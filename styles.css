@@ -1,0 +1,57 @@
+body{
+   background-color: #D6E2F0;
+   text-align: center;
+   margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+main{
+   background: white;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 450px;
+    align-items: center;
+    border-radius: 16px;
+}
+.banner{
+   background-color: #2C7DFA;
+   border-radius: 15px;
+   padding: 16px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.first{
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.second{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
